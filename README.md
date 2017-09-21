@@ -1,5 +1,6 @@
 # Workshop React Native UFRJ
 This is a project created during a workshop taught at UFRJ.
+![Screenshot NearMe App](https://i.imgur.com/pM1Tlog.png)
 
 Instructions to run this project in Portuguese:
 
